@@ -1,0 +1,9 @@
+/PasswordManager/target/
+/PasswordManager/*.class
+/PasswordManager/*.jar
+/PasswordManager/*.war
+/PasswordManager/*.ear
+/PasswordManager/*.logs
+/PasswordManager/*.iml
+/PasswordManager/.idea/
+/PasswordManager/.eclipse
