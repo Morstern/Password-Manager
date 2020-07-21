@@ -35,3 +35,10 @@ Client was written in Java (with GUI library **JavaFX**) is able to do following
 - Fetch password
 
 All above actions sends to the server message: `{From, Operation, Data}`, server based on field *Operation* does an action and sends back to the client response.
+
+
+## Possible further improvements
+- Real engine for generating passwords, with addition of rules made by user (for example: 4 digits, 10 big letters etc.),
+- Better and cleaner UI (possibly changing the type of application, from desktop application to web application),
+- Authentication,
+- Agent-based Erlang Server,
